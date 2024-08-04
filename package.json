@@ -23,6 +23,7 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
-    "axios": "^1.7.2"
+    "axios": "^1.7.2",
+    "uniqid": "^5.4.0"
   }
 }
